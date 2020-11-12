@@ -1,2 +1,2 @@
 # note
-leekari persion note
+leekari person note
